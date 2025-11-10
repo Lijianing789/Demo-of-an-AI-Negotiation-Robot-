@@ -9,4 +9,4 @@ opening the address( assuming it is a dress product)
 ![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/original.png)
 
 Consumers can bid according to the prompt.
-![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/output.png)
+![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/output.jpg)
