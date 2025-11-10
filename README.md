@@ -12,5 +12,6 @@ Chat with me during the clearance sale: Intelligent bidding robot, making your s
 ![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/output.jpg)
 
 >Here are more prompts
->![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/test.png)
->![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/test2.png)
+>>![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/test.png)
+>>![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/answer.png)
+>>![Image text](https://github.com/Lijianing789/Demo-of-an-AI-Negotiation-Robot-/blob/main/test2.png)
